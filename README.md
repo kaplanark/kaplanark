@@ -18,9 +18,9 @@
 
 [<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>][linkedin]
 
-[<a><img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>Twitter</a>][twitter]
+[<a><img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> Twitter</a>][twitter]
 
-[<img height="24" width="24" align= "center" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
+[<a><img height="24" width="24" align= "center" src="https://img.icons8.com/color/48/000000/youtube-play.png"/> Youtube</a>][youtube]
 [<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kaplan.arkan@gmail.com)
 
 <br>
