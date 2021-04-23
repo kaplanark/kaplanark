@@ -1,3 +1,9 @@
+<!-- LİNKS-->
+[linkedin]: https://www.linkedin.com/in/kaplan-arkan-2a5747158/
+[twitter]:https://twitter.com
+[mail]:kaplan.arkan@gmail.com
+[youtube]:https://www.youtube.com/
+
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" align="right" width="198" height="">
 
 ### Kaplan Arkan
@@ -47,9 +53,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplanark&layout=compact">
 
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/kaplan-arkan-2a5747158/
-[twitter]:https://twitter.com
-[mail]:kaplan.arkan@gmail.com
-[youtube]:https://www.youtube.com/
