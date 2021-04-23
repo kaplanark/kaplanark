@@ -16,7 +16,7 @@
 
 ### Contact me
 
-[<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>][linkedin]
+[<a><img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>Youtube</a>][linkedin]
 [<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img height="24" width="24" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 [<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kaplan.arkan@gmail.com)
