@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/source.gif" align="right" width="198" height="">
 
-### Merhaba ben Kaplan
+### Kaplan Arkan
 
 <br><br>
 
-## JavaScript Developer
+## Jonior Back-End Developer
 
 <br><br>
 
