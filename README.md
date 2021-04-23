@@ -1,11 +1,18 @@
 <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/source.gif" align="right" width="198" height="">
 
 ### Merhaba ben Kaplan
+
 <font color="#FFE165">
+  
 ## JavaScript Developer
+
 </font>
 
-<font color ="gray"><br></font>
+<font color ="gray">
+ 
+ ## est
+ 
+</font>
 
 ### Contact me
 
