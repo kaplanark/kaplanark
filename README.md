@@ -8,7 +8,7 @@
 
 ### Kaplan Arkan
 
-[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/){:target="_blank"}
+[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/){target="_blank"}
 
 <br>
 
