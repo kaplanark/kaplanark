@@ -2,17 +2,11 @@
 
 ### Merhaba ben Kaplan
 
-<font color="#FFE165">
-  
+<br><br>
+
 ## JavaScript Developer
 
-</font>
-
-<font color ="gray">
- 
- ## est
- 
-</font>
+<br><br>
 
 ### Contact me
 
