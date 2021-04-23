@@ -4,7 +4,8 @@
 [mail]:kaplan.arkan@gmail.com
 [youtube]:https://www.youtube.com/
 
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" align="right" width="198" height="">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" width="198" height="">
+<!--https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif-->
 
 ### Kaplan Arkan
 
