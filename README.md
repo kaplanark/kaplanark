@@ -19,7 +19,7 @@
 
 ## The technology i use
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" align="right" width="120" height="">   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" align="right" width="120" height="">   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif" align="right" width="120" height="">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif" align="right" width="120" height="">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif" width="120" height="">
 
 <br>
 # Latest Blog Posts
