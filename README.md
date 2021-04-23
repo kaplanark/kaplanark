@@ -1,7 +1,6 @@
 <!-- LİNKS-->
 [linkedin]: https://www.linkedin.com/in/kaplan-arkan-2a5747158/
 [twitter]:https://twitter.com
-[mail]:kaplan.arkan@gmail.com
 [youtube]:https://www.youtube.com/
 
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" align="right" width="198" height="">
@@ -19,9 +18,7 @@
 
 [<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>][linkedin]
 [<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
-
 [<img height="24" width="24" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
-
 [<img height="24" width="24" src="https://img.icons8.com/fluent/48/000000/email.png"/>](mailto:kaplanarkan@gmail.com)
 
 <br>
