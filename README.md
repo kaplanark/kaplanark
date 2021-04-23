@@ -19,9 +19,8 @@
 
 ## The technology i use
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif" width="64" height="">
-
-<br>
+<img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/javascript.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/css3.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/python.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/96/000000/nodejs.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/plasticine/100/000000/bash.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">   <img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
+<br><br>
 
 # Latest Blog Posts
 
