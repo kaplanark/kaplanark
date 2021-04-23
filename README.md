@@ -19,7 +19,7 @@
 <br><br>
 
 ## The technology i use
-<img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/css3.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/python.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/96/000000/nodejs.png"><img height = "32" heigth ="32" src="https://img.icons8.com/plasticine/100/000000/bash.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
+<img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/javascript.png"><br><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/html-5--v1.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/css3.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/python.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/96/000000/nodejs.png"><img height = "32" heigth ="32" src="https://img.icons8.com/plasticine/100/000000/bash.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img height = "32" heigth ="32" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
