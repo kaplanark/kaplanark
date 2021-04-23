@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" align="right" width="198" height="">
+<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/source.gif" align="right" width="198" height="">
 
 ### Kaplan Arkan
 
