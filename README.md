@@ -16,11 +16,9 @@
 
 ### Contact me
 
-[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/> LinkedIn][linkedin] |
-[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> Twitter][twitter]
-
-[<img height="24" width="24" align= "center" src="https://img.icons8.com/color/48/000000/youtube-play.png"/> Youtube][youtube]
-
+[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/> LinkedIn][linkedin]  |
+[<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> Twitter][twitter]  |
+[<img height="24" width="24" align= "center" src="https://img.icons8.com/color/48/000000/youtube-play.png"/> Youtube][youtube]  |
 [<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/email.png"/> Send Mail](mailto:kaplan.arkan@gmail.com)
 
 <br>
