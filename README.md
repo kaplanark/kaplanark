@@ -2,9 +2,7 @@
 
 ### Merhaba ben Kaplan
 <font color="#FFE165">
-
 ## JavaScript Developer
-
 </font>
 
 <font color ="gray"><br></font>
