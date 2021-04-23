@@ -19,10 +19,12 @@
 
 ## The technology i use
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif" width="120" height="">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif" width="120" height="">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif" width="64" height="">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/source.gif" width="64" height="">
 
 <br>
+
 # Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
