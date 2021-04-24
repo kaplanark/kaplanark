@@ -30,7 +30,6 @@ You may want to take a look at my posts.[<img height="24" width="24" align= "cen
 [<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="img/youtube.png"/>][youtube]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:kaplan.arkan@gmail.com)
-
 <br>
 
 ## The Techs I Use and Tools
