@@ -39,7 +39,7 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/console.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/django.png"/><br>
+<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/chrome.png"/><br>
 <br>
 <br>
 
