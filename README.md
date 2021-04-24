@@ -8,7 +8,7 @@
 
 ## Kaplan Arkan
 
-<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
+<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/>
 
 <h3>A passionate developer who wants to be a pioneer at what he is doing.</h3>
 <p>
