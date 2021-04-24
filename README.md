@@ -26,10 +26,10 @@ You may want to take a look at my posts.[<img height="24" width="24" align= "cen
 
 ### Communication
 
-[<img height="24" width="24" align= "center" src="img/linkedin.png"/> LinkedIn][linkedin] |
-[<img height="24" width="24" align= "center" src="img/twitter.png"/> Twitter][twitter] |
-[<img height="24" width="24" align= "center" src="img/youtube.png"/> Youtube][youtube] |
-[<img height="24" width="24" align= "center" src="img/email.png"/> Mail](mailto:kaplan.arkan@gmail.com)
+[<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedin]
+[<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
+[<img height="24" width="24" align= "center" src="img/youtube.png"/>][youtube]
+[<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:kaplan.arkan@gmail.com)
 
 <br>
 
