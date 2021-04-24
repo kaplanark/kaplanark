@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
 
 <ul>
-        <h4>
+        <h5>
         <li>Web Developer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Open Source Supporter</li>
-        </h4>
+        </h5>
 </ul>  
 
 
