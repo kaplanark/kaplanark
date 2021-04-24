@@ -24,7 +24,7 @@ I identify myself as a person who is hungry for knowledge and dedicated to learn
 You may want to take a look at my posts.[<img height="24" width="24" align= "center" src="img/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/)
 <br>
 
-### Contact Me
+### Communication
 
 [<img height="24" width="24" align= "center" src="img/linkedin.png"/> LinkedIn][linkedin] |
 [<img height="24" width="24" align= "center" src="img/twitter.png"/> Twitter][twitter] |
