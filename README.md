@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
 
 <ul>
-        <li><h3>Web Developer</h3></li>
+        <li><h6>Web Developer</h6></li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Open Source Supporter</li>
 </ul>  
