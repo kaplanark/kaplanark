@@ -40,7 +40,7 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/console.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/windows/32/000000/npm.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://pypi.org/static/images/white-cube.8c3a6fe9.svg"/><br>
+<img height = "32" heigth ="32" align= "left" src="https://pypi.org/static/images/logo-small.6eef541e.svg"/><br>
 <br>
 <br>
 
