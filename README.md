@@ -38,8 +38,8 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <br>
 
-<details align= "left">
-<summary>Github Stats</summary>
+<details>
+<summary align= "left">Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kaplanark">
 
 </details>
