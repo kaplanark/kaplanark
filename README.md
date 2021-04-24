@@ -3,7 +3,7 @@
 [twitter]:https://twitter.com
 [youtube]:https://www.youtube.com/
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height="">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height=""><br>
 <img align="right" src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img  align="right" src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img  align="right" src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
 <!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 
