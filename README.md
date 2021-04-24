@@ -21,11 +21,6 @@
 You may want to take a look at my posts.[<img height="24" width="24" align= "center" src="img/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/)
 
 <img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
-
-<br>
-
-# Web Developer
-
 <br>
 
 ### Contact Me
