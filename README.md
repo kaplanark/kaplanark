@@ -12,7 +12,7 @@
 
 <h3>A passionate developer who wants to be a pioneer at what he is doing.</h3>
 <p>
-I identify myself as a person who is hungry for knowledge and dedicated to learning.I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy.My vision is to train myself to be a high quality software developer/engineer following the ethical code of hackers. 
+I identify myself as a person who is hungry for knowledge and dedicated to learning.I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy.My vision is to train myself to be a high quality web developer following the ethical code of hackers. 
 </p>
 <ul>
         <li>Web Developer</li>
