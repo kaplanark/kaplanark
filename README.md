@@ -47,20 +47,18 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/console.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/github.png"/><br>
+
+<br>
 <br>
 <br>
 
 <details>
 <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kaplanark">
-
 </details>
-
 <details>
 <summary>Most Used Languages</summary>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplanark&layout=compact">
-
 </details>
 <br>
 
