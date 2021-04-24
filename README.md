@@ -3,12 +3,12 @@
 [twitter]:https://twitter.com
 [youtube]:https://www.youtube.com/
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height=""><br>
-
-<img align="right" src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img  align="right" src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img  align="right" src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height="">
 <!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 
 ### Kaplan Arkan
+
+<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
 
 
 You may want to take a look at my posts.[<img height="24" width="24" align= "center" src="img/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/)
