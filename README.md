@@ -28,8 +28,8 @@
 
 ## The techs i use
 
-<img height = "32" heigth ="32" align="center" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height = "32" heigth ="32" align= "center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img height = "32" heigth ="32" align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img height = "32" heigth ="32" align= "center" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img height = "32" heigth ="32" align= "center" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img height = "32" heigth ="32" align= "center" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
