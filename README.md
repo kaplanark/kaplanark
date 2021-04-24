@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height="">
 <!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 
-### Kaplan Arkan
+## Kaplan Arkan
 
 <h3>A passionate developer who wants to be a pioneer at what he is doing.</h3>
 <p>
