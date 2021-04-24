@@ -7,7 +7,7 @@
 <!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 
 ### Kaplan Arkan
-#### You may want to take a look at my posts.
+You may want to take a look at my posts.
 [<img height="24" width="24" align= "center" src="https://img.icons8.com/fluent/48/000000/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/)
 
 
