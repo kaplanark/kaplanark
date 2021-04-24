@@ -8,7 +8,10 @@
 
 ### Kaplan Arkan
 
-
+<h3>A passionate developer who wants to be a pioneer at what he is doing.</h3>
+<p>
+I identify myself as a person who is hungry for knowledge and dedicated to learning.I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy.My vision is to train myself to be a high quality software developer/engineer following the ethical code of hackers. 
+</p>
 <ul>
         <li>Web Developer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
@@ -19,8 +22,6 @@
 You may want to take a look at my posts.[<img height="24" width="24" align= "center" src="img/internet.png"/> kaplanark.com](https://kaplanark.wordpress.com/)
 
 <img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-10-orange?style=flat"/>
-
-<br>
 <br>
 
 ### Contact Me
