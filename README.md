@@ -37,6 +37,7 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/><br>
 <br>
+<br>
 
 <details>
 <summary>Github Stats</summary>
