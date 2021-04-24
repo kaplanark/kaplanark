@@ -21,7 +21,7 @@ I identify myself as a person who is hungry for knowledge and dedicated to learn
         <li>Open Source Supporter</li>
 </ul>  
 
-You may want to take a look at my posts.[kaplanark.com <img height="24" width="24" align= "center" src="https://img.icons8.com/windows/32/000000/cursor.png"/>](https://kaplanark.wordpress.com/)
+You may want to take a look at my posts.[kaplanark.com <img height="16" width="16" align= "center" src="https://img.icons8.com/windows/32/000000/cursor.png"/>](https://kaplanark.wordpress.com/)
 <br>
 
 ### Communication
