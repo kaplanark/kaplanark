@@ -33,7 +33,7 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
