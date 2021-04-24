@@ -30,8 +30,8 @@
 
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img height = "32" heigth ="32" align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/npm.png"/>
