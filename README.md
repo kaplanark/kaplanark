@@ -39,7 +39,8 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/console.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/github.png"/><br>
+<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/><br>
 <br>
 <br>
 
