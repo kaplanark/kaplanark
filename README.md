@@ -35,11 +35,11 @@
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
 <img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+<img height = "32" heigth ="32" align= "left" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/><br>
 <br>
 
 <details>
-<summary align= "left">Github Stats</summary>
+<summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kaplanark">
 
 </details>
