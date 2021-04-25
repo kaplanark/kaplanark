@@ -18,7 +18,7 @@ I identify myself as a person who is hungry for knowledge and dedicated to learn
         <li>Web Developer</li>
         <li>Computer Engineer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
-        <li>Open Source Software Supporter</li>
+        <li>Free Software Supporter</li>
 </ul>  
 
 You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordpress.com/)
