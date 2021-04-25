@@ -10,9 +10,8 @@
 
 <img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/>
 
-<h3>...</h3>
+<h3></h3>
 <p>
-        ...
 </p>
 <ul>
         <li>Web Developer</li>
