@@ -8,7 +8,7 @@
 
 ## Kaplan Arkan
 
-<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/> [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
+<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/>
 
 <h3></h3>
 <p>
@@ -70,3 +70,5 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 - [django](https://kaplanark.wordpress.com/2020/01/04/django-2/)
 - [VirtualEnv](https://kaplanark.wordpress.com/2020/01/04/virtualenv/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
