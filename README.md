@@ -8,7 +8,7 @@
 
 ## Kaplan Arkan
 
-<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/>
+<img src="https://img.shields.io/github/followers/kaplanark?style=flat"/>  <img src="https://img.shields.io/github/stars/kaplanark?style=flat"/>   <img src="https://img.shields.io/badge/repositories-11-orange?style=flat"/> [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 
 <h3></h3>
 <p>
