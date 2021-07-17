@@ -42,7 +42,7 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <img height = "32" heigth ="32" align= "left" src="img/node.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/npm.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/pypi.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/bash.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/bash.png"/><br>
 <img height = "32" heigth ="32" align= "left" src="img/docker.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/console.png"/>
