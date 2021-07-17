@@ -37,6 +37,7 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/html.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/css.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/bts.png"/><br>
 <img height = "32" heigth ="32" align= "left" src="img/python.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/node.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/npm.png"/>
