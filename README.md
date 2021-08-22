@@ -14,7 +14,7 @@
 <p>
 </p>
 <ul>
-        <li>Jr. Web Developer</li>
+        <li>Web Developer</li>
         <li>Computer Engineer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Free Software Supporter</li>
