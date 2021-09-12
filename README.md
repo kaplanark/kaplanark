@@ -23,7 +23,7 @@
 You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordpress.com/)
 <br>
 
-<p>
+<p align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark" alt="kaplanark" /></a>
 </p>
 
