@@ -24,7 +24,7 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <br>
 
 <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark&theme=gitdimme" alt="kaplanark" /></a>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark&theme=onedark" alt="kaplanark" /></a>
 </p>
 
 ### Communication
