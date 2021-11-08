@@ -70,7 +70,7 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 
 <!-- BLOG-POST-LIST:START -->
 - [PythonAnywhere](https://kaplanark.wordpress.com/2020/01/09/pythonanywhere/)
-- [CloudReady Linux(Beta)](https://kaplanark.wordpress.com/2020/01/08/cloudready-linuxbeta/)
+- [CloudReady Linux&lpar;Beta&rpar;](https://kaplanark.wordpress.com/2020/01/08/cloudready-linuxbeta/)
 - [Cloud Ready](https://kaplanark.wordpress.com/2020/01/08/cloud-ready/)
 - [django](https://kaplanark.wordpress.com/2020/01/04/django-2/)
 - [VirtualEnv](https://kaplanark.wordpress.com/2020/01/04/virtualenv/)
