@@ -37,7 +37,7 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 
 ## The Techs I Use and Tools
 
-<img height = "32" heigth ="32" align= "left" src="img/vite.png"/>
+<img height = "26" heigth ="26" align= "left" src="img/vite.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vscode.png"/>
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/html.png"/>
