@@ -1,5 +1,5 @@
 <!-- LİNKS-->
-[linkedin]: https://www.linkedin.com/in/kaplan-arkan-2a5747158/
+[linkedin]: https://www.linkedin.com/in/kaplanarkan/
 [twitter]:https://twitter.com
 [youtube]:https://www.youtube.com/
 
