@@ -44,10 +44,10 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <img height = "32" heigth ="32" align= "left" src="img/html.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/css.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/bts.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/python.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/scss.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/node.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/npm.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/pypi.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/mongodb.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/bash.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/docker.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
