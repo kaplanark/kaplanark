@@ -1,6 +1,6 @@
 <!-- LİNKS-->
 [linkedin]: https://www.linkedin.com/in/kaplanarkan/
-[twitter]:https://twitter.com
+[twitter]:https://twitter.com/kaplanark
 [youtube]:https://www.youtube.com/
 
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height="">
