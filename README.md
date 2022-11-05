@@ -38,6 +38,7 @@
 <img height = "32" heigth ="32" align= "left" src="img/vite.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vscode.png"/>
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
+<img height = "32" heigth ="32" align="left" src="img/ts.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/html.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/css.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/scss.png"/>
