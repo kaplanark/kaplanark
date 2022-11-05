@@ -17,14 +17,7 @@
         <li>Computer Engineer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Free Software Supporter</li>
-</ul>  
-
-You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordpress.com/)
-<br>
-
-<p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark&theme=onedark" alt="kaplanark" /></a>
-</p>
+</ul> 
 
 ### Communication
 
