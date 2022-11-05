@@ -18,6 +18,11 @@
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Free Software Supporter</li>
 </ul> 
+<br>
+
+<p align="center">
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark&theme=onedark" alt="kaplanark" /></a>
+</p>
 
 ### Communication
 
