@@ -34,7 +34,7 @@
 
 ## The Techs I Use and Tools
 
-<div style="display:flex; gap:16px">
+<div style="display:flex; gap:16px 8px">
 <img height = "32" align= "left" src="img/vue.png"/>
 <img height = "32" align= "left" src="img/nuxt.png"/>
 <img height = "32" align= "left" src="img/vite.png"/>
