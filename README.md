@@ -44,10 +44,13 @@ You may want to take a look at my posts.[ kaplanark.com](https://kaplanark.wordp
 <img height = "32" heigth ="32" align= "left" src="img/css.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/scss.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/node.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/express.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/npm.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/mongodb.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/console.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/figma.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/postman.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/github.png"/><br>
 
 <br>
