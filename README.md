@@ -35,6 +35,7 @@
 ## The Techs I Use and Tools
 
 <img height = "32" heigth ="32" align= "left" src="img/vue.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/nuxt.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vite.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vscode.png"/>
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
@@ -44,13 +45,11 @@
 <img height = "32" heigth ="32" align= "left" src="img/scss.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/node.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/express.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/npm.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/mongodb.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/console.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/figma.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/postman.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/github.png"/><br>
 
 <br>
 <br>
