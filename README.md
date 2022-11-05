@@ -50,6 +50,7 @@
 <img height = "32" heigth ="32" align= "left" src="img/console.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/figma.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/postman.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/netlify.png"/>
 
 <br>
 <br>
