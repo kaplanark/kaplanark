@@ -24,8 +24,6 @@
         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanark&theme=onedark" alt="kaplanark" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaplanark&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Communication
 
 [<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedin]
