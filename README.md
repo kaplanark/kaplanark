@@ -3,7 +3,7 @@
 [twitter]:https://twitter.com/kaplanark
 [youtube]:https://www.youtube.com/
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/source.gif" align="right" width="198" height="">
+<img src="https://media0.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" align="right" width="198" height="">
 <!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 
 # Kaplan Arkan
