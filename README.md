@@ -31,7 +31,7 @@
 
 <img height = "32" heigth ="32" align= "left" src="img/vue.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/nuxt.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/vite.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/ns.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vscode.png"/>
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
 <img height = "32" heigth ="32" align="left" src="img/ts.png"/>
@@ -43,8 +43,6 @@
 <img height = "32" heigth ="32" align= "left" src="img/mongodb.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ubuntu.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/figma.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/postman.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/netlify.png"/><br>
 
 <br>
 <br>
