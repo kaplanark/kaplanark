@@ -31,6 +31,8 @@
 
 <img height = "32" heigth ="32" align= "left" src="img/vue.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/nuxt.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/reaact.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/reaact-native.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ns.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/vscode.png"/>
 <img height = "32" heigth ="32" align="left" src="img/js.png"/>
