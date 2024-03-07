@@ -13,7 +13,7 @@
 <p>
 </p>
 <ul>
-        <li>Web Developer</li>
+        <li>Web (focused with Front-End) & Native App Developer</li>
         <li>Computer Engineer</li>
         <li>Book Buff <a href="https://goodreads.com/kaplanark" alt="Good Reads">Good Reads</a></li>
         <li>Free Software Supporter</li>
