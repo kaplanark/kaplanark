@@ -30,7 +30,7 @@
 ## The Techs I Use and Tools
 
 <img height = "32" heigth ="32" align= "left" src="img/vue.png"/>
-<img height = "32" heigth ="32" align= "left" src="img/nuxt.png"/>
+<img height = "32" heigth ="32" align= "left" src="img/nuxt-js.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/react.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/capacitor-js.png"/>
 <img height = "32" heigth ="32" align= "left" src="img/ns.png"/>
